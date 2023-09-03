@@ -1,4 +1,4 @@
-###Dark-mode calculator using HTML, CSS and JavaScript. 
+### Dark-mode calculator using HTML, CSS and JavaScript. 
 - - - -
 ## :rocket: Tech Stack used: 
 - HTML
